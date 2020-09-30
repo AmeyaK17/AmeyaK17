@@ -1,4 +1,4 @@
-# Hello, I am Ameya 👻 <img align="right" width="30%" height="30%" src="ameya.jpg">
+# Hello, I am Ameya 👻 <img align="right" width="25%" height="25%" src="ameya.jpg">
 
 I am a CSE student. I like explore and try out new technologies in the computer science industry and to grow my knowledge base.
 
