@@ -3,8 +3,7 @@
 I am a CSE student. I like explore and try out new technologies in the computer science industry and to grow my knowledge base.
 
 <p> 👨🏻‍💻 <a href="https://ameyak17.github.io/Portfolio/"> Portfolio Website </p>
- 
-### My Resume:
+
 <p> 📄 <a href="https://drive.google.com/file/d/1s0rPfPFXW_gT7ShimXn89o2OA5Wsw9s4/view"> My Resume </p>
 
 ### Programming Languages, Tools and Technologies:
@@ -28,10 +27,4 @@ I am a CSE student. I like explore and try out new technologies in the computer 
 
 ### Contact me at:
 <a href="https://www.linkedin.com/in/ameyakale/" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"> <a href="mailto:ameya.k.kale@gmail.com" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"> <a href="https://api.whatsapp.com/send?phone=+919284385789"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"> 
-
-
-
-
-
-
-
+ 
