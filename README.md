@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   <img width="25%" height="25%" src="ameya.jpg">
 </p>
 
-*react
+[![Ameya's github stats](https://github-readme-stats.vercel.app/api?username=AmeyaK17)](https://github.com/anuraghazra/github-readme-stats)
