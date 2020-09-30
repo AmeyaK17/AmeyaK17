@@ -5,7 +5,7 @@ I am a CSE student. I like explore and try out new technologies in the computer 
 <p> 👨🏻‍💻 <a href="https://ameyak17.github.io/Portfolio/"> Portfolio Website </p>
  
 ### My Resume:
-<a href="https://drive.google.com/file/d/1s0rPfPFXW_gT7ShimXn89o2OA5Wsw9s4/view"> 📄 My Resume </p>
+<p> 📄 <a href="https://drive.google.com/file/d/1s0rPfPFXW_gT7ShimXn89o2OA5Wsw9s4/view"> My Resume </p>
 
 ### Programming Languages, Tools and Technologies:
  - Languages </br>
