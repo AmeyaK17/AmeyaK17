@@ -2,6 +2,12 @@
 
 I am a CSE student. I like explore and try out new technologies in the computer science industry and to grow my knowledge base.
 
+### Portfolio Website: 
+<p> 👨🏻‍💻 <a href="https://ameyak17.github.io/Portfolio/"></p>
+ 
+### My Resume:
+<p> 📄 <a href="https://drive.google.com/file/d/1s0rPfPFXW_gT7ShimXn89o2OA5Wsw9s4/view"></p>
+
 ### Programming Languages, Tools and Technologies:
  - Languages </br>
     <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg">
