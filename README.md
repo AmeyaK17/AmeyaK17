@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="460" height="300" src="ameya.jpg">
+  <img width="100%" height="100%" src="ameya.jpg">
 </p>
