@@ -10,7 +10,7 @@ I am a CSE student. I like explore and try out new technologies in the computer 
     <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg">
 
 - Mobile Development </br>
-    <img height="32" width="32" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
+    <img height="32" width="32" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/android/android-official.svg">
 
 - DataBase Handling </br>
     <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg">
