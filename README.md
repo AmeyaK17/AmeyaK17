@@ -25,7 +25,7 @@ I am a CSE student. I like explore and try out new technologies in the computer 
 - IoT </br>
        <img height="32" width="32" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"> 
        
-![Ameya's github stats](https://github-readme-stats.ameyak17.vercel.app/api?username=AmeyaK17&show_icons=true&count_private=true&bg_color=0,076585,fff)
+![Ameya's github stats](https://github-readme-stats.ameyak17.vercel.app/api?username=AmeyaK17&show_icons=true&count_private=true&bg_color=0,4ca1af,c4e0e5)
 
 ### Contact me at:
 <a href="https://www.linkedin.com/in/ameyakale/" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"> <a href="mailto:ameya.k.kale@gmail.com" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"> <a href="https://api.whatsapp.com/send?phone=+919284385789"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"> 
