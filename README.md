@@ -11,19 +11,13 @@ I am a CSE student. I like explore and try out new technologies in the computer 
     Java, C/C++, Python, JavaScript
 
 - Web Development </br>
-    <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg">
-
-- Mobile Development </br>
-    <img height="32" width="32" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/android/android-official.svg">
+    Angular, React, Node, HTML/CSS
 
 - DataBase Handling </br>
-    <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg">
+    MySQL, MongoDB, MS SQL
 
-- Machine Learning / Deep Learning </br>
-     <img height="32" width="32" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/keras.svg">
-
-- IoT </br>
-       <img height="32" width="32" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"> 
+- Other
+    Git, Docker
        
 ![Ameya's github stats](https://github-readme-stats.ameyak17.vercel.app/api?username=AmeyaK17&show_icons=true&count_private=true&bg_color=0,4ca1af,c4e0e5&title_color=dff9fb&icon_color=dff9fb&hide_border=true)
 
