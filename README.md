@@ -1,4 +1,4 @@
-# Hi! <img align="right" width="25%" height="25%" src="ameya.jpg">
+# Ameya Kale <img align="right" width="25%" height="25%" src="ameya.jpg">
 
 I am a CSE student. I like explore and try out new technologies in the computer science industry and to grow my knowledge base.
 
