@@ -8,7 +8,7 @@ I am a CSE student. I like explore and try out new technologies in the computer 
 
 ### Programming Languages, Tools and Technologies:
  - Languages </br>
-    <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg">
+    Java, C/C++, Python, JavaScript
 
 - Web Development </br>
     <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"> <img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg">
