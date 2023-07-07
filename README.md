@@ -20,7 +20,7 @@ I am a CSE student. I like explore and try out new technologies in the computer 
     Git, Docker
 
 ## LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/AmeyaK17?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AmeyaK17?ext=contest)
 
 ### Contact me at:
 <a href="https://www.linkedin.com/in/ameyakale/" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"> <a href="mailto:ameya.k.kale@gmail.com" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"> <a href="https://api.whatsapp.com/send?phone=+919284385789"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"> 
