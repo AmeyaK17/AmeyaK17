@@ -8,6 +8,7 @@ I am a CSE student. I like explore and try out new technologies in the computer 
 
 ### Programming Languages, Tools and Technologies:
  - Languages </br>
+ 
     [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,py)](https://skillicons.dev)
 
 - Web Development </br>
@@ -16,7 +17,7 @@ I am a CSE student. I like explore and try out new technologies in the computer 
 - DataBase Handling </br>
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-- Other
+- Other </br>
     [![My Skills](https://skillicons.dev/icons?i=git,docker,linux,bash,vscode)](https://skillicons.dev)
 
 ## LeetCode Stats
