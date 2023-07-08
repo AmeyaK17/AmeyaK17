@@ -8,16 +8,16 @@ I am a CSE student. I like explore and try out new technologies in the computer 
 
 ### Programming Languages, Tools and Technologies:
  - Languages </br>
-    Java, C/C++, Python, JavaScript
+    [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,py)](https://skillicons.dev)
 
 - Web Development </br>
-    Angular, React, Node, HTML/CSS
+    [![My Skills](https://skillicons.dev/icons?i=react,nodejs,postman,bootstrap,html,css)](https://skillicons.dev)
 
 - DataBase Handling </br>
-    MySQL, MongoDB, MS SQL
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 - Other
-    Git, Docker
+    [![My Skills](https://skillicons.dev/icons?i=git,docker,linux,bash,vscode)](https://skillicons.dev)
 
 ## LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AmeyaK17?ext=heatmap&theme=dark)
