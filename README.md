@@ -1,4 +1,4 @@
-# Ameya Kale
+###<p align="center">Ameya Kale</p>
 
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
@@ -7,6 +7,8 @@ Computer Science grad student from Syracuse University. Making steady progress t
 <p> 👨🏻‍💻 <a href="https://ameyak17.github.io/Portfolio/"> Portfolio Website </p>
 
 <p> 📄 <a href="https://drive.google.com/file/d/1yXXLUFVBWY3CC1XYYcNBY93pYP7ZCk9C/view?usp=sharing"> My Resume </p>
+
+#
 
 ### Programming Languages, Tools and Technologies:
  - Languages </br>
