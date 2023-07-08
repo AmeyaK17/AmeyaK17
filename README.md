@@ -1,10 +1,10 @@
-# Ameya Kale <img align="right" width="25%" height="25%" src="ameya.jpg">
+# Ameya Kale
 
-I am a CSE student. I like explore and try out new technologies in the computer science industry and to grow my knowledge base.
+Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
 <p> 👨🏻‍💻 <a href="https://ameyak17.github.io/Portfolio/"> Portfolio Website </p>
 
-<p> 📄 <a href="https://drive.google.com/file/d/1yXXLUFVBWY3CC1XYYcNBY93pYP7ZCk9C/view?usp=sharing"> My Resume </p>
+<p> 📄 <a href="[https://drive.google.com/file/d/1yXXLUFVBWY3CC1XYYcNBY93pYP7ZCk9C/view?usp=sharing](https://drive.google.com/file/d/1mMPLFxnHeqonIeYiEYEqDkaeRLgV15Kj/view?usp=share_link)"> My Resume </p>
 
 ### Programming Languages, Tools and Technologies:
  - Languages </br>
@@ -12,12 +12,15 @@ I am a CSE student. I like explore and try out new technologies in the computer 
     [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,py)](https://skillicons.dev)
 
 - Web Development </br>
+
     [![My Skills](https://skillicons.dev/icons?i=react,nodejs,postman,bootstrap,html,css)](https://skillicons.dev)
 
 - DataBase Handling </br>
+
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 - Other </br>
+
     [![My Skills](https://skillicons.dev/icons?i=git,docker,linux,bash,vscode)](https://skillicons.dev)
 
 ## LeetCode Stats
