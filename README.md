@@ -1,5 +1,6 @@
 # Ameya Kale
 
+
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
 #
@@ -27,7 +28,7 @@ Computer Science grad student from Syracuse University. Making steady progress t
 
 #
 
-## LeetCode Stats
+### LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AmeyaK17?ext=heatmap&theme=dark)
 
 #
