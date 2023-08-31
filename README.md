@@ -9,6 +9,8 @@ Computer Science grad student from Syracuse University. Making steady progress t
 
 <p> 📄 <a href="https://drive.google.com/file/d/1yXXLUFVBWY3CC1XYYcNBY93pYP7ZCk9C/view?usp=sharing"> My Resume </p>
 
+![](https://komarev.com/ghpvc/?username=AmeyaK17&color=blue)
+
 #
 
 ### Programming Languages, Tools and Technologies:
