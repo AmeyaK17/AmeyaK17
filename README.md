@@ -3,13 +3,12 @@
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
 #
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 <p> 👨🏻‍💻 <a href="https://ameyak17.github.io/Portfolio/"> Portfolio Website </p>
 
 <p> 📄 <a href="https://drive.google.com/file/d/1yXXLUFVBWY3CC1XYYcNBY93pYP7ZCk9C/view?usp=sharing"> My Resume </p>
 
-![](https://komarev.com/ghpvc/?username=AmeyaK17&color=blue)
+![](https://komarev.com/ghpvc/?username=AmeyaK17&color=blue&style=for-the-badge)
 
 #
 
