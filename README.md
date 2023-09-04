@@ -1,3 +1,7 @@
+body {
+  background-color: #00FFFF;
+}
+
 # <p align="center">Ameya Kale</p>
 
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
