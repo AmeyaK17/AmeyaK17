@@ -1,5 +1,5 @@
 body {
-  background-color: #00FFFF;
+  background-color: 'red;
 }
 
 # <p align="center">Ameya Kale</p>
