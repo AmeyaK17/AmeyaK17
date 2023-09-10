@@ -6,7 +6,7 @@ Computer Science grad student from Syracuse University. Making steady progress t
 
 <p> 👨🏻‍💻 <a href="https://ameyak17.github.io/Portfolio/"> Portfolio Website </p>
 
-<p> 📄 <a href="https://drive.google.com/file/d/1yXXLUFVBWY3CC1XYYcNBY93pYP7ZCk9C/view?usp=sharing"> My Resume </p>
+<p> 📄 <a href="[https://drive.google.com/file/d/1yXXLUFVBWY3CC1XYYcNBY93pYP7ZCk9C/view?usp=sharing](https://drive.google.com/file/d/1_mWBVmJPFwAZidisx5spNTW16H0yDEob/view?usp=sharing)"> My Resume </p>
 
 ![](https://komarev.com/ghpvc/?username=AmeyaK17&color=blue&style=for-the-badge)
 
