@@ -21,7 +21,7 @@ Computer Science grad student from Syracuse University. Making steady progress t
 
     [![My Skills](https://skillicons.dev/icons?i=react,nodejs,postman,bootstrap,html,css)](https://skillicons.dev)
 
-- DataBase Handling </br>
+- Database </br>
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
