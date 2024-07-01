@@ -37,7 +37,7 @@ Computer Science grad student from Syracuse University. Making steady progress t
 #
 
 ### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AmeyaK17&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmeyaK17&theme=dark)](https://leetcode.com/u/AmeyaK17/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyaK17&layout=donut&hide=html,css,scss,less)](https://github.com/anuraghazra/github-readme-stats)
 
