@@ -41,9 +41,5 @@ Computer Science grad student from Syracuse University. Making steady progress t
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyaK17&layout=donut&hide=html,css,scss,less)]
-
-#
-
 ### Contact me at:
 <a href="https://www.linkedin.com/in/ameyakale/" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">  <a href="mailto:ameya.k.kale@gmail.com" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg">  <a href="https://api.whatsapp.com/send?phone=3159527613"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"> 
