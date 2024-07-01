@@ -32,12 +32,14 @@ Computer Science grad student from Syracuse University. Making steady progress t
 #
 
 ### LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/AmeyaK17?ext=heatmap&theme=dark)(https://leetcode.com/u/AmeyaK17/)]
+![Leetcode Stats](https://leetcard.jacoblin.cool/AmeyaK17?ext=heatmap&theme=dark)
 
 #
 
 ### GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AmeyaK17&theme=dark)](https://git.io/streak-stats)
+
+#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyaK17&layout=donut&hide=html,css,scss,less)]
 
