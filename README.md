@@ -39,7 +39,7 @@ Computer Science grad student from Syracuse University. Making steady progress t
 ### GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AmeyaK17&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&hide=html,css,scss,less)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&hide=html,css)
 
 #
 
