@@ -37,7 +37,7 @@ Computer Science grad student from Syracuse University. Making steady progress t
 #
 
 ### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AmeyaK17&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 #
 
