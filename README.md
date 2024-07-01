@@ -32,7 +32,7 @@ Computer Science grad student from Syracuse University. Making steady progress t
 #
 
 ### LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/AmeyaK17?ext=heatmap&theme=dark)(https://leetcode.com/u/AmeyaK17/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/AmeyaK17?ext=heatmap&theme=dark)(https://leetcode.com/u/AmeyaK17/)]
 
 #
 
