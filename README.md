@@ -1,4 +1,4 @@
-$${\Huge \testsf{ \textbf{ \color{green} Ameya Kale }}}$$
+$${\Huge \textsf{ \textbf{ \color{green} Ameya Kale }}}$$
 
 # <p align="center" style="color:#FF5733;">Ameya Kale</p>
 
