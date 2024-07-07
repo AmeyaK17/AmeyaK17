@@ -1,4 +1,4 @@
-# $${\Huge \textsc { \color{green} Ameya Kale }}$$
+# $${\Huge \textbf { \color{green} Ameya Kale }}$$
 
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
