@@ -1,7 +1,4 @@
-% Define custom color
-\definecolor{mygreen}{RGB}{45, 186, 78}
-
-# $${\Huge \textbf { \color{mygreen} Ameya Kale }}$$
+# $${\Huge \textbf { \color{RGB}{45, 186, 78} Ameya Kale }}$$
 
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
