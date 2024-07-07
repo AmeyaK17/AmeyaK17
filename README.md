@@ -1,4 +1,4 @@
-$${\huge \color{green} Ameya Kale }$$
+$${\Huge \color{green} Ameya Kale }$$
 
 # <p align="center" style="color:#FF5733;">Ameya Kale</p>
 
