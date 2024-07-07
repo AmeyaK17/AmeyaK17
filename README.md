@@ -1,6 +1,4 @@
-$${\Huge \textrm{ \textbf{ \color{green} Ameya Kale }}}$$
-
-# <p align="center" style="color:#FF5733;">Ameya Kale</p>
+# $${\Huge \textrm{ \textbf{ \color{green} Ameya Kale }}}$$
 
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
