@@ -1,6 +1,7 @@
-# $${\Huge \textbf { \color{olive} Ameya Kale }}$$
+% Define custom color
+\definecolor{mygreen}{RGB}{45, 186, 78}
 
-<p style="color:orange;">Orange text.</p>
+# $${\Huge \textbf { \color{mygreen} Ameya Kale }}$$
 
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
