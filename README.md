@@ -1,5 +1,7 @@
 # $${\Huge \textbf { \color{olive} Ameya Kale }}$$
 
+<p style="color:orange;">Orange text.</p>
+
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
 #
