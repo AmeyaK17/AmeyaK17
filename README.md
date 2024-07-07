@@ -1,4 +1,4 @@
-# <p align="center" style="color:blue;">Ameya Kale</p>
+# <p align="center" style="color:#FF5733;">Ameya Kale</p>
 
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
