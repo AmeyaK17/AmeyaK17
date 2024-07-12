@@ -1,4 +1,4 @@
-# {\Huge \textbf{\textcolor[RGB]{45, 186, 78}{Ameya Kale}}}
+# $$ {\Huge \textbf{\textcolor[RGB]{45, 186, 78}{Ameya Kale}}}
 
 #  Apple WWDC Scholar
 
