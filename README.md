@@ -1,6 +1,6 @@
-# $${\Huge \textbf{\textcolor[RGB]{45, 186, 78}{Ameya Kale}}}$$
+# <p align="center"> $${\Huge \textbf{\textcolor[RGB]{45, 186, 78}{Ameya Kale}}}$$ </p>
 
-# <p align="center" style="font-size:48px;">  Apple WWDC Scholar </p>
+# <p align="center">  Apple WWDC Scholar </p>
 
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
