@@ -1,4 +1,4 @@
-# Ameya Kale
+# <p align="center" style="font-size:48px;"> Ameya Kale </p>
 
 ## <p align="center" style="font-size:48px;">  Apple WWDC Scholar </p>
 
