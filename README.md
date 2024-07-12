@@ -1,4 +1,6 @@
-# $${\Huge \textbf{\textcolor[RGB]{45, 186, 78}{Ameya Kale}}}$$
+# \begin{center} {\Huge \textbf{\textcolor[RGB]{45, 186, 78}{Ameya Kale}}} \end{center}
+
+##  Apple WWDC Scholar
 
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
