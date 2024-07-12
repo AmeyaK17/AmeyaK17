@@ -1,6 +1,6 @@
 # <p align="center" style="font-size:48px;"> Ameya Kale </p>
 
-## <p align="center" style="font-size:48px;">  Apple WWDC Scholar </p>
+## <p align="center" style="font-size:48px;">  Apple WWDC Student Challenge Winner </p>
 
 Computer Science grad student from Syracuse University. Making steady progress towards honing my software development skills.
 
