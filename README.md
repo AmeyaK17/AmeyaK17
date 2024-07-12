@@ -1,4 +1,5 @@
 # <p align="center" style="font-size:48px;"> $${\Huge \textbf{\textcolor[RGB]{45, 186, 78}{Ameya Kale}}}$$ </p>
+# <p align="center" style="font-size:48px; color:rgb(45, 186, 78); font-weight:bold;"> Ameya Kale </p>
 
 # <p align="center" style="font-size:48px;">  Apple WWDC Scholar </p>
 
