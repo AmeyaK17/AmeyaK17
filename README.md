@@ -2,9 +2,9 @@
 
 ## <p align="center" style="font-size:48px;">  Apple WWDC Student Challenge Winner </p>
 
-I'm a software engineer with a Master’s degree in Computer Science from Syracuse University and over 1.5 years of industry experience. My journey in technology has been marked by notable achievements, including winning the Apple WWDC Student Challenge 2024, and two Hackathons. I specialize in building scalable, high-performance applications using technologies like Java, JavaScript, Spring Boot, React.js, and Node.js.
+<p align="center"> I'm a software engineer with a Master’s degree in Computer Science from Syracuse University and over 1.5 years of industry experience. My journey in technology has been marked by notable achievements, including winning the Apple WWDC Student Challenge 2024, and two Hackathons. I specialize in building scalable, high-performance applications using technologies like Java, JavaScript, Spring Boot, React.js, and Node.js.
 
-I am passionate about creating software solutions that can positively impact and enhance people's lives. I am actively seeking roles in software development, where I can apply my skills and knowledge to projects that foster innovation and social good.
+I am passionate about creating software solutions that can positively impact and enhance people's lives. I am actively seeking roles in software development, where I can apply my skills and knowledge to projects that foster innovation and social good. </p>
 
 #
 
