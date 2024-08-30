@@ -19,9 +19,10 @@ I am passionate about creating software solutions that can positively impact and
 #
 
 ### Programming Languages, Tools and Technologies:
+
  - Languages </br>
  
-    [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,py)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py" /> 
 
 - Web Development </br>
 
