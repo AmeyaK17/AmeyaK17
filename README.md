@@ -18,31 +18,27 @@ I am passionate about creating software solutions that can positively impact and
 
 #
 
-### Programming Languages, Tools and Technologies:
-<p align="center">
- - Languages </br>
-   
+### <p align="center"> Programming Languages, Tools and Technologies: </p>
+<p align="center"> Languages </br> </p>
    <p align="center">
       <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py" href="https://skillicons.dev"/> 
    </p>
 
-- Web Development </br>
-
+<p align="center"> Web Development </br> </p>
     <p align="center">
       <img src="https://skillicons.dev/icons?i=react,nodejs,postman,bootstrap,html,css" href="https://skillicons.dev"/> 
     </p>
 
-- Database </br>
-
+<p align="center"> Database </br> </p>
     <p align="center">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" href="https://skillicons.dev"/> 
     </p>
 
-- Other </br>
+<p align="center"> Other </br> </p>
     <p align="center">
       <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode" href="https://skillicons.dev"/> 
     </p>
-</p>
+
 
 #
 
@@ -58,13 +54,13 @@ I am passionate about creating software solutions that can positively impact and
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=AmeyaK17&theme=dark"/> 
   </p>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=AmeyaK17&theme=dark)](https://git.io/streak-stats)
- -->
 
- <p align="center">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyaK17&hide_progress=true&hide=html,css,scss,less"/> 
   </p>
 #
 
 ### <p align="center"> Contact me at: </p>
+<p align="center"> 
 <a href="https://www.linkedin.com/in/ameyakale/" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">  <a href="mailto:ameya.k.kale@gmail.com" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg">  <a href="https://api.whatsapp.com/send?phone=3159527613"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"> 
+</p>
