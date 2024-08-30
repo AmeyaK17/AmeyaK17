@@ -22,7 +22,7 @@ I am passionate about creating software solutions that can positively impact and
 
  - Languages </br>
  
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py" /> 
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py" href="https://skillicons.dev"/> 
 
 - Web Development </br>
 
