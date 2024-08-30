@@ -58,6 +58,7 @@ I am passionate about creating software solutions that can positively impact and
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyaK17&hide_progress=true&hide=html,css,scss,less"/> 
   </p>
+
 #
 
 ### <p align="center"> Contact me at: </p>
