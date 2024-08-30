@@ -21,35 +21,50 @@ I am passionate about creating software solutions that can positively impact and
 ### Programming Languages, Tools and Technologies:
 <p align="center">
  - Languages </br>
- 
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py" href="https://skillicons.dev"/> 
+   
+   <p align="center">
+      <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py" href="https://skillicons.dev"/> 
+   </p>
 
 - Web Development </br>
 
-    [![My Skills](https://skillicons.dev/icons?i=react,nodejs,postman,bootstrap,html,css)](https://skillicons.dev)
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,postman,bootstrap,html,css" href="https://skillicons.dev"/> 
+    </p>
 
 - Database </br>
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" href="https://skillicons.dev"/> 
+    </p>
 
 - Other </br>
-
-    [![My Skills](https://skillicons.dev/icons?i=git,docker,linux,bash,vscode)](https://skillicons.dev)
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode" href="https://skillicons.dev"/> 
+    </p>
 </p>
 
 #
 
-### LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/AmeyaK17?ext=heatmap&theme=dark)
+### <p align="center"> LeetCode Stats </p>
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/AmeyaK17?ext=heatmap&theme=dark" href="https://leetcode.com/u/AmeyaK17"/> 
+  </p>
 
 #
 
-### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AmeyaK17&theme=dark)](https://git.io/streak-stats)
+### <p align="center"> GitHub Stats </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyaK17&hide_progress=true&hide=html,css,scss,less)
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=AmeyaK17&theme=dark"/> 
+  </p>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=AmeyaK17&theme=dark)](https://git.io/streak-stats)
+ -->
 
+ <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyaK17&hide_progress=true&hide=html,css,scss,less"/> 
+  </p>
 #
 
-### Contact me at:
+### <p align="center"> Contact me at: </p>
 <a href="https://www.linkedin.com/in/ameyakale/" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">  <a href="mailto:ameya.k.kale@gmail.com" > <img height="32" width="32" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg">  <a href="https://api.whatsapp.com/send?phone=3159527613"> <img height="32" width="32" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"> 
