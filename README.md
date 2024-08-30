@@ -12,7 +12,7 @@ I am passionate about creating software solutions that can positively impact and
 
 <p align="center"> 📄 <a href="https://drive.google.com/file/d/1LlY3pUdyvmjFpZ7zS782T60pteoul9y-/view?usp=sharing"> My Resume </p>
 
-![](https://komarev.com/ghpvc/?username=AmeyaK17&color=blue&style=for-the-badge)
+<p align="center"> ![](https://komarev.com/ghpvc/?username=AmeyaK17&color=blue&style=for-the-badge) </p>
 
 #
 
