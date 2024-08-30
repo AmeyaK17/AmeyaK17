@@ -19,7 +19,7 @@ I am passionate about creating software solutions that can positively impact and
 #
 
 ### Programming Languages, Tools and Technologies:
-
+<p align="center">
  - Languages </br>
  
     <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py" href="https://skillicons.dev"/> 
@@ -35,6 +35,7 @@ I am passionate about creating software solutions that can positively impact and
 - Other </br>
 
     [![My Skills](https://skillicons.dev/icons?i=git,docker,linux,bash,vscode)](https://skillicons.dev)
+</p>
 
 #
 
