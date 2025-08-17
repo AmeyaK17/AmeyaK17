@@ -8,6 +8,7 @@ I am passionate about creating software solutions that can positively impact and
 
 #
 
+<!--
 <p align="center"> 👨🏻‍💻 <a href="https://ameyak17.github.io/Portfolio/"> Portfolio Website </p>
 
 <p align="center"> 📄 <a href="https://drive.google.com/file/d/1LlY3pUdyvmjFpZ7zS782T60pteoul9y-/view?usp=sharing"> My Resume </p>
@@ -17,6 +18,7 @@ I am passionate about creating software solutions that can positively impact and
 </p>
 
 #
+-->
 
 ### <p align="center"> Programming Languages, Tools and Technologies: </p>
 <p align="center"> Languages </br> </p>
