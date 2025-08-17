@@ -31,7 +31,7 @@ I am passionate about creating software solutions that can positively impact and
 
 <p align="center"> Database </br> </p>
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb," href="https://skillicons.dev"/> 
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" href="https://skillicons.dev"/> 
     </p>
 
 <p align="center"> Other </br> </p>
