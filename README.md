@@ -42,12 +42,14 @@ I am passionate about creating software solutions that can positively impact and
 
 #
 
+<!--
 ### <p align="center"> LeetCode Stats </p>
   <p align="center">
     <img src="https://leetcard.jacoblin.cool/AmeyaK17?ext=heatmap&theme=dark" href="https://leetcode.com/u/AmeyaK17"/> 
   </p>
 
 #
+-->
 
 ### <p align="center"> GitHub Stats </p>
 
